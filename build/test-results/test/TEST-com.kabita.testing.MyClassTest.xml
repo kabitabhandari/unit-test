@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kabita.testing.MyClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-13T19:03:35" hostname="Kabitas-MacBook-Pro.local" time="0.436">
+  <properties/>
+  <testcase name="getMemberNames_validIds_shouldReturnNameList()" classname="com.kabita.testing.MyClassTest" time="0.436"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
